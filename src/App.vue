@@ -1,5 +1,8 @@
 <template>
-  <div id="app">{{ meesage }}</div>
+  <div id="app">
+    <div>{{ meesage }}</div>
+    <div>New commit master</div>
+  </div>
 </template>
 
 <script>
